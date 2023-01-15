@@ -1,0 +1,274 @@
+.header {
+    float: left;
+    width: 100%;
+    font-family: poppins;
+    font-size: 14px;
+    background-color: #F7F8F7;
+    position: fixed;
+}
+ul {
+  list-style: none;
+}
+li {
+  display: inline;
+  padding: 1.5em;
+}
+li:hover {
+  background-color: white;
+  color: blue;
+  cursor: pointer;
+}
+img.logo_img {
+  width: 50%;
+  padding-left: 7em;
+  margin-top: 0.59em;
+}
+input.header_input {
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  padding-right: 7em;
+  padding-left: 1em;
+  font-size: 16px;
+  background-color: #ECEDEB;
+  border: 1px #ECEDEB;
+  margin-left: 2em;
+  margin-right: 4em;
+}
+
+.header1 {
+  float: left;
+  width: 13%;
+}
+.header2 {
+  float: right;
+  width: 87%;
+}
+a {
+  text-decoration: none;
+}
+.container {
+  float: left;
+  width: 100%;
+}
+.Dress-123 {
+  float: left;
+  width: 31%;
+  margin-left: 1.5em;
+  margin-bottom: 2em;
+}
+img.dressimg {
+  width: 100%;
+}
+.dress h2 {
+  font-family: poppins;
+  font-size: 14px;
+
+  font-weight: 400;
+}
+.dress h3 {
+  font-size: 18px;
+  font-weight: 500;
+  font-family: 'Poppins';
+}
+button.dressbtnn {
+    width: 100%;
+    padding: 0.5em;
+    background-color: #303AB2;
+    border: solid 1px #303AB2;
+    color: white;
+    font-family: 'Poppins';
+    font-size: 13px;
+    cursor: pointer;
+    font-weight: 500;
+}
+marquee.mac-tag {
+  background-color: #303AB2;
+  padding: 0.5em;
+  font-family: 'Poppins';
+  font-size: 14px;
+  font-weight: 400;
+  color: white;
+  margin-bottom: 1em;
+  text-transform: capitalize;
+  margin-top: 4.5em;
+}
+.cart-department {
+  float: left;
+  width: 100%;
+}
+.cartt {
+  float: left;
+  width: 100%;
+}
+img.qwe {
+  width: 100%;
+}
+.cartt h3 {
+  font-family: 'Poppins';
+  text-transform: capitalize;
+  font-size: 14px;
+  font-weight: 400;
+  width: 10%;
+  border: solid 1px;
+  padding: 0.5em;
+  margin-left: 5em;
+  text-align: center;
+}.cart-cartitems {
+  float: left;
+  width: 70%;
+  justify-content: center;
+  display: flex;
+  background: linear-gradient(to bottom right,#e2f0ff,#fafcff);
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 1em;
+  margin-left: 12em;
+  font-family: poppins;
+  text-align: center;
+}
+.ccart-11 {
+  float: left;
+  width: 30%;
+}
+.cartt-22 {
+  float: left;
+  width: 30%;
+}
+.carrrt-44 {
+  float: right;
+  width: 45%;
+}
+.cart-33{
+  float: right;
+  width: 30%;
+}
+button.removebttn {
+  padding: 0.5em;
+  width: 85%;
+  font-family: 'Poppins';
+  background-color: #303AB2;
+  border: solid 1px #303AB2;
+  color: white;
+  cursor: pointer;
+}
+.Footer-part {
+  float: left;
+  width: 100%;
+}.footerparts {
+  float: left;
+  width: 100%;
+  font-family: 'Roboto';
+  text-align: center;
+  margin: 2em 0em;
+}
+.footerpart1 {
+  float: left;
+  width: 50%;
+}
+.footerpart2 {
+  float: right;
+  width: 50%;
+}
+.footerpart1 h2 {
+  margin-bottom: 0em;
+  font-size: 22px;
+}
+.footerpart2 h2 {
+  margin-bottom: 0em;
+  font-size: 22px;
+}
+.footerpart1 p {
+  margin-top: 0.4em;
+  margin-left: 2em;
+  font-size: 14px;
+  font-family: poppins;
+}.footerpart2 p {
+  margin-top: 0.4em;
+  margin-left: 6em;
+  font-size: 14px;
+  font-family: poppins;
+}
+input.input-footer {
+  width: 44%;
+  padding: 0.3em;
+  font-family: poppins;
+  margin-left: 6.5em;
+}
+button.buton-footer {
+  width: 15%;
+  padding: 0.4em;
+  font-family: poppins;
+  background-color: #303AB2;
+  color: white;
+  border: solid;
+  cursor: pointer;
+  margin-left: 1em;
+}
+.itemsections-footer {
+  float: left;
+  width: 100%;
+  font-family: poppins;
+  margin-top: 2em;
+}
+.itemsections-footer h2 {
+  text-transform: capitalize;
+  font-size: 16px;
+  margin-left: 3.6em;
+}
+li.footer-li {
+  display: list-item;
+  line-height: 0em;
+  font-size: 13px;
+}
+.women-footer {
+  float: left;
+  width: 20%;
+}
+.men-footer {
+  float: left;
+  width: 20%;
+}
+.explore-footer {
+  float: left;
+  width: 20%;
+}
+.about-footer {
+  float: right;
+  width: 20%;
+}
+.help-footer {
+  float: right;
+  width: 20%;
+}
+.app {
+  width: 30%;
+  margin-left: 14em;
+}
+img.app11 {
+  cursor: pointer;
+}
+.app2 {
+  float: right;
+  width: 10%;
+}
+.app1  {
+  float:left;
+}
+.footer-end {
+  float: left;
+  width: 100%;
+}
+.footer-end {
+  float: left;
+  width: 100%;
+  background-color: #F7F8F7;
+  margin-top: -1em;
+  font-size: 14px;
+  font-family: poppins;
+  text-align: center;
+}
+.footerr {
+  float: left;
+  width: 100%;
+}
